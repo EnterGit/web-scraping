@@ -21,3 +21,10 @@ products=[div.a.string for div in element]
 
 for items in products:
     print(items)
+
+#both products and link
+
+#products={div.a.string:div.a['href'] for div in soup.find_all('div',attrs={'class':'crux-body-copy'})}
+
+#for key,value in products.items():
+#    print(key, '------>', value)
