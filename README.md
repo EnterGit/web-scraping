@@ -17,3 +17,9 @@ This repository contains various scraping examples
 #### Files description (.py)
 1.-> All products available in the website has been scraped
 https://www.consumerreports.org/cro/a-to-z-index/products/index.htm 
+
+2-> All problem statement and examples present in the website has been scraped. In this  the program will iterate through 3 different links inside the website.
+http://codingbat.com/java.
+
+You can also try for scraping of python programs in the website. I have scraped only the java programs problem statement
+
